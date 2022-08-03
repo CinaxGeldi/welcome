@@ -1,0 +1,19 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["1001135743319674910"],
+        "ACTIVITY_TEXT": "Durum Yazısı",
+        "GUILD_ID": "1000929581160738876",
+        "VOICE_CHANNEL": "1001135976002883734",
+        "MIN_STAFF_ROLE": "1001135801473712190"
+    },
+    "FILES": {
+        "WELCOME": "default_files/Welcome.mp3",
+        "STAFF": "default_files/Staff.mp3"
+    },
+    "TOKEN": "MTAwNDI1MjIxMDY0NzAxOTUyMQ.GJnJ7J.2FYJxQblauYa86Ugvukv9O04c3FZhMb8AdCQCE"
+
+
+
+}
+
+
